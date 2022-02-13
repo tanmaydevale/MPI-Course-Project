@@ -1,5 +1,7 @@
 # MPI-Course-Project
 
+![image](https://user-images.githubusercontent.com/87221911/153768014-84327664-f9c2-4b90-be6e-5805074d84c0.png)
+
 Design a microprocessor-based transistor h FE tester. The system has to display the hFE value
 of NPN transistors.
 
