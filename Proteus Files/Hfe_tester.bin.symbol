@@ -1,0 +1,27 @@
+< THE SYMBOL TABLE >  Hfe_tester.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+ST1                      	00400     	-1        	LABEL     	(NOSEG)   
+OFF                      	00418     	-1        	LABEL     	(NOSEG)   
+ZERO                     	0041E     	-1        	LABEL     	(NOSEG)   
+BUSY1                    	00445     	-1        	LABEL     	(NOSEG)   
+BUSY2                    	0047A     	-1        	LABEL     	(NOSEG)   
+BUSY3                    	004A8     	-1        	LABEL     	(NOSEG)   
+BUSY4                    	004D6     	-1        	LABEL     	(NOSEG)   
+BUSY5                    	00504     	-1        	LABEL     	(NOSEG)   
+BUSY6                    	00532     	-1        	LABEL     	(NOSEG)   
+BUSY7                    	00560     	-1        	LABEL     	(NOSEG)   
+BUSY8                    	0058E     	-1        	LABEL     	(NOSEG)   
+BUSY9                    	005BC     	-1        	LABEL     	(NOSEG)   
+BUSY10                   	005EA     	-1        	LABEL     	(NOSEG)   
+LOOPI                    	005F8     	-1        	LABEL     	(NOSEG)   
+ALARM                    	00604     	-1        	LABEL     	(NOSEG)   
+NOALARM                  	00608     	-1        	LABEL     	(NOSEG)   
+X2                       	0061C     	-1        	LABEL     	(NOSEG)   
+END_OF_ASM               	0062A     	-1        	LABEL     	(NOSEG)   
+AD_ISR                   	0062D     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 19-04-2021  --  12:47:47 ] 
+< END >
+ 
